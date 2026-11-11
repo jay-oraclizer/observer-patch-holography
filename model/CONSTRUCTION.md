@@ -7,6 +7,18 @@ One declared repair/memory process must supply the clocks, particle/energy
 interpretation and gravitational premises together; separate successful
 benchmarks do not discharge that joint requirement.
 
+The [finite joint defect-wave construction](coherent_defect_wave/PROOF.md)
+supplies one such connection on a specified one-defect/one-wave sector.
+The retained links control wave propagation, and local wave occupation
+controls reversible link moves in the same tick. Complete readouts certify
+both influences. A compatible [interior Gauss state](coherent_defect_wave/GAUSS.md)
+and [stationary preparation](coherent_defect_wave/PREPARATION.md) use that
+joint evolution. The [source-specific particle path](coherent_defect_wave/PARTICLE_PATH.md)
+attaches pure-background preparation, complete finite spectroscopy, a local
+spatial circuit and a shared-link CAR extension. The tensor-wave and CAR
+spatial laws have distinct sectors. Physical energy, relativistic dispersion,
+spin/current identification and mass extraction retain their own requirements.
+
 The spectral and precision continuation
 classifies the repair-active and repair-transparent chain spectra, proves
 literal source-reference errors with exact intervals, and supplies all
@@ -83,20 +95,54 @@ Mathematically, an instance is a tuple
  observer instruments and feedback maps, preparation domain, declared services).
 ```
 
-Each seam `e` carries an instrument whose outcomes `r` are committed records.
-An observer is a finite tape of such records together with a controller that
-chooses the next operation from the tape alone. Everything an observer can
-report is a probability computed from these maps.
+Each declared seam operation specifies its output register and whether that
+register is coherently retained or committed as a classical record. The
+committed C/E observer is a finite tape with a controller that chooses its
+next operation from that tape. The
+[coherent seam observer](coherent_seam_repair/README.md) instead keeps a
+reversible correction register between wave steps and uses explicit apparatus
+operations for recording. Those are different programs. Their complete output
+maps determine every reported probability, including preparation failures and
+resource stops.
 
-The working method has four steps. Build the simplest instance that meets the
-stated requirements. Derive its consequences exactly. Keep every supplied
-input visible. Find the observations that distinguish it from the
-alternatives the requirements leave open. A finite implementation is complete
-when its declared observation, record and feedback contract runs and passes
-its checks. Proving that self-consistency uniquely selects that
-implementation is a separate question and is not a prerequisite for
-constructing it. A complete physical model additionally needs compatible
-physical identifications and tests on the same process.
+For the coherent program, the reduced walk reference is stationary under its
+specified unitary. A preparation archive can carry additional correlations;
+conditioning on it changes that reference. Autonomous repair/transport,
+preparation and optional destructive apparatus are separate operation classes
+within one declared source. Protection is tested under its stated idle or
+transport class, without treating every possible detector as unsolicited noise.
+Internal gauge-response completeness is also a separate contract from the
+full apparatus control algebra.
+
+The carrier, code, scheduler, preparations and observer apparatus are
+legitimate design choices. A component may be a primitive of this declared
+architecture; an assertion that a narrower repair source implements it
+requires an implementation proof. Neither choice requires a proof that OPH
+forces that architecture. Finite theorems constrain the construction under
+their stated hypotheses. Once those hypotheses are verified on an instance,
+their conclusions apply on the corresponding domain; necessity or uniqueness
+claims require the separate premises of any theorem asserting them.
+
+The working method has four steps. Build and freeze the simplest instance
+that meets the stated requirements. Derive its complete native observer
+outputs, including joint and conditional consensus statistics, failures and
+retained quantum references. Keep every supplied input visible. Find the
+observations that distinguish it from the alternatives the requirements
+leave open. A finite implementation is complete when its declared
+observation, record and feedback contract runs and passes its checks.
+Proving that self-consistency uniquely selects that implementation is a
+separate question and is not a prerequisite for constructing it or
+calculating its observable consequences. A complete physical model
+additionally needs compatible physical identifications and tests on the
+same process.
+
+Architectural choice and empirical calibration have different roles. A
+setting chosen using a target mass, coupling or other comparison datum must
+retain that calibration ancestry. Reproducing the datum used to choose it
+does not provide an independent prediction. This does not prohibit the
+choice: it determines what the complete calculation tests. Derivation from
+a frozen construction and proof that nature uniquely requires that
+construction are separate assertions.
 
 ## Completion target and acceptance criteria
 

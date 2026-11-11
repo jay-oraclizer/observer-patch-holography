@@ -1,5 +1,234 @@
 # The runnable OPH model
 
+These executable constructions produce finite source events and complete
+observer records. Their effective fields follow from specified source,
+state and clock contracts. The
+[particle path](coherent_defect_wave/PARTICLE_PATH.md) separates proved
+attachments from the interacting and empirical tests needed for a measured
+particle spectrum.
+
+## Free particle and mass records
+
+The [graded flux field](coherent_defect_wave/many_body_route/PROOF.md) has a
+literal protected-defect encoding, complete fermionic occupations and a
+positive filled-sea reference. Its controlled continuum readouts form a
+massive free Dirac field. The
+[mass instrument](coherent_defect_wave/mass_instrument/PROOF.md) records
+particle and antiparticle rest energy two in source units, with failures
+and battery work retained. The grading, regulator and mass coefficient are
+specified architecture. An interacting chiral theory, measured species
+assignment and independent GeV scale require further source attachments.
+
+## Chiral native matter
+
+The [local chiral encoding](coherent_defect_wave/chiral_source/PROOF.md)
+attaches two left-Weyl components to the actual fifteen-state native charge
+module. A declared spectral regulator has a controlled free chiral limit
+and explicit finite nonlocality. The
+[quantum Higgs interaction](coherent_defect_wave/chiral_higgs/PROOF.md)
+provides exact finite conversion and complete energy records. Its
+[conditional particle dictionary](coherent_defect_wave/chiral_particle_map/PROOF.md)
+has up-type, down-type and charged-lepton Dirac roles, plus a massless
+neutral Weyl role. Selecting a physical scalar state and mass coefficients,
+and proving the interacting relativistic limit, are separate requirements;
+these roles do not identify measured particles.
+
+## An interacting physical reference
+
+The [full eight-cell weak-hopping source](coherent_defect_wave/chiral_joint/atomic_spin_geometry/PROOF.md)
+has a unique physical interacting ground with all matter, scalar and link
+states retained. An [explicit physical preparation](coherent_defect_wave/chiral_joint/interacting_ground_preparation/PROOF.md)
+supplies a bounded ground error and every failure record. Its
+[charged instruments](coherent_defect_wave/chiral_joint/interacting_charged_response/PROOF.md)
+give positive `e^c` and `L` removal energy bins near `0.69166` and `0.09689`
+source units, with a separately costed static charge reference. These are
+finite detector transitions, not identified particle rest masses.
+The [native service compiler](native_quantum_service_bridge/PROOF.md)
+executes a singlet Yukawa code and a compensated U(1) code through explicit
+coherent transfer and port-control services, retaining their error budgets.
+The [family-clock calculation](finite_family_clock/PROOF.md) separately
+distinguishes a one-tick Koide effect, its controlled collision-clock
+extension and the complete quantum scalar-memory spectrum.
+
+The same source has positive charge arrivals and a separately bounded
+low-energy [localization law](coherent_defect_wave/chiral_joint/interacting_charge_localization/PROOF.md).
+Its multi-charge cloud retains screening, so the single-charge bound is
+not an unrestricted confinement claim.
+
+## Charged fields and energy detectors
+
+The [finite electric/magnetic source](affine_gauss_full_spectrum/PROOF.md)
+has a certified full charged ground, including transverse-field dressing.
+A [complete finite instrument](affine_gauss_clock_observables/PROOF.md)
+measures energy, then charge position and field occupation, with every
+preparation and detector outcome retained. The
+[native attachment](native_abelian_field_join/PROOF.md) couples actual odd
+native probes to the field and proves positive original-attempt arrivals.
+Its [successive position and energy records](native_abelian_energy_records/PROOF.md)
+bound arrival followed by acceptance near the actual admitted charged
+ground, including the position measurement's backaction and all failures.
+These are finite source energies and motion; a relativistic species and
+an independent GeV scale require their physical comparison.
+
+On the unchanged native cube, [refined charged-energy windows](native_charge_resolution/PROOF.md)
+retain positive original probe weight in a source-energy interval more than
+364 times narrower than the coarse bin. The
+[quantum Higgs/elementary join](native_higgs_spectral_join/PROOF.md)
+proves a positive common-energy response of an elementary charged probe and
+its Higgs–lepton composite, with a complete interference experiment.
+Neither calculation substitutes a classical scalar background or selects
+an observed mass by fitting it.
+
+The [finite charged centroid](native_charge_centroid/PROOF.md) uses the
+actual physical preparation without an extra ground projection. It bounds
+the complete twenty-bit detector's conditional source-energy mean by
+`[0.6916566792649, 0.6916566826119]`, retaining preparation failures,
+the charged reference and the explicit neutral-energy baseline error.
+Admission to the narrow bin remains a declared spectral service. The mean
+does not identify a single pole or a GeV mass.
+
+The [weak-current interface](native_weak_current_interface/PROOF.md)
+preserves the full canonical field/current map on the quantum source.
+An exact constant-scalar replacement fails at its five-state cap; the
+proved nilpotency bound does not forbid controlled collective limits.
+A gauge-invariant dressed weak-current operator has full norm two and
+a complete two-outcome measurement. The
+[prepared response](native_weak_current_response/PROOF.md) has a positive
+original inelastic record and a nonzero charged-state current insertion.
+The [filtered-state comparison](native_higgs_filtered_state/PROOF.md)
+also bounds every common detector history after elementary or composite
+preparation. Their spatial weak-interaction interpretation requires its
+own field construction.
+
+The [same-excitation current readout](native_higgs_current_response/PROOF.md)
+measures the original dressed current after either elementary or Higgs
+preparation. Exact charge conjugation and full-source error bounds give
+strictly negative means in the admitted bin, with all 80 apparatus labels
+retained. The opposite-charge detector value cannot be copied without
+transforming the operator.
+The [local pointer](native_local_current_readout/PROOF.md) realizes that
+last readout with a declared local polynomial coupling, without cancelling
+the source Hamiltonian. Its complete-history error is below `0.000268446640`;
+both negative means survive. Earlier preparation and energy-bin services
+retain their own control requirements.
+
+The [complete quark probes](native_quark_response/PROOF.md) calculate all
+local roots and residues for `u^c`, `d^c` and `Q`, including twelve exact
+zero-residue Q roots. The actual compensated preparation has strong source
+energy windows near `0.781574` and `0.781989`, with original-attempt weights
+above `0.4953`. Exact local `u^c`/`d^c` equality at the chosen equal Yukawa
+couplings does not identify observed up/down masses.
+The [quark–Higgs join](native_quark_higgs_join/PROOF.md) connects each
+family's elementary operator to its literal scalar/matter commutator.
+All three have positive shared-bin interference on the same interacting
+Hamiltonian, with every reference and failed preparation retained.
+Their admitted elementary/composite states give common subsequent detector
+histories within `5.193e-6`, including the retained preparation environment;
+the original setting labels and unequal success rates remain distinct.
+
+The [native Wilson–Maxwell source](native_wilson_maxwell/PROOF.md) couples
+a complete charged spinor code to a finite transverse field on one
+Hamiltonian. Exact Gauss constraints, actual preparation and nonlinear
+error bounds give a positive pair-plus-field probability and connected
+response. Its 1,161-label detector retains every complement. Spatial
+refinement and the coupled particle spectrum require separate calculations.
+The [photon-cap comparison](native_wilson_maxwell_refinement/PROOF.md)
+bounds complete records on that fixed graph, with cap-three error below
+`1.863e-9`. The [full ground audit](native_wilson_maxwell_ground/PROOF.md)
+finds the unchanged source's ground outside its intended code. An explicit
+positive onsite completion gives a unique active interacting ground,
+prepared by four complete trials and three finite filters. Its stationary
+free-frame occupation is virtual dressing, not vacuum emission or a mass.
+The [uniform ground refinement](native_wilson_maxwell_ground_refinement/PROOF.md)
+keeps that completion at every photon cap and bounds the complete actual
+preparation and field/count histories. It supplies a fixed-cube oscillator
+comparison, with explicit large-cap and control-resource budgets; spatial
+refinement and observed mass identification remain distinct.
+
+A separate [free Dirac construction](native_block_dirac/PROOF.md) uses
+the actual odd native states in a complete fermionic occupation code.
+Its declared square-root kinetic law, spinor filters and programmable
+apparatus give a controlled free spin-one-half record limit with a
+source-selected rest frequency. The product native ground and this declared
+kinetic Hamiltonian support complete particle/antiparticle detector records. This construction has
+full-range couplers; it does not inherit the charged field's interaction
+or identify a Standard Model lepton.
+
+## Neutral fields and finite collisions
+
+Coupling complete interacting blocks gives a
+[controlled Klein–Gordon record limit](interacting_block_quadrature/PROOF.md)
+with the native block gap as its rest frequency. All native sectors,
+finite-capacity errors and measurement outcomes are retained. The
+[momentum-dependent vector instrument](interacting_block_proca/PROOF.md)
+on those same blocks gives a controlled free Proca description with three
+polarizations and explicit complete-record errors. The
+[finite collision experiment](interacting_block_scattering/PROOF.md)
+has a positive, error-bounded channel between two neutral components.
+The proved refinement becomes free; identifying a measured particle
+and a nontrivial interacting relativistic limit requires further control.
+
+The [complete two-cell source](coherent_defect_wave/chiral_joint/two_cell/README.md) keeps
+quantum scalar/link registers and every active lepton occupation. Its
+certified neutral ground supports complete charged detector lines near
+1.05204385 and 0.90979863 source units, retaining preparation failures.
+[Finite propagation](coherent_defect_wave/chiral_joint/two_cell/PROPAGATION_PROOF.md) also
+moves a prepared physical pair through the quantum link. A separate periodic
+source gives physical joint source/reference momentum phases. Its extra
+link changes the dynamics, so open-edge energies cannot be transferred to
+it. The [particle path](coherent_defect_wave/PARTICLE_PATH.md) specifies the dispersion,
+reference and comparison tests required for a relativistic GeV mass.
+
+## Native interactions and charged objects
+
+The [propagating native construction](coherent_defect_wave/propagating_native_join/PROOF.md)
+moves native waves and protected flux on a shared finite clock, with
+complete interaction records. Its free kinetic controls do not establish
+an interacting relativistic limit. The
+[native charged cloud](coherent_defect_wave/field_identity_audit/PROOF.md)
+carries the exact fifteen fermion-family weights and admits bound transport
+preserving actual source currents. Idle repair fixes that cloud, so its
+weak coupling contributes no mass correction. The
+[positive-clock collision](coherent_defect_wave/energy/PROOF.md) is another
+exact finite control, on its separately stated source and reference.
+
+## Transporting source defects
+
+The [mobile-flux source](coherent_defect_wave/mobile_flux/PROOF.md) adds a
+flat sector and moves complete inside/exterior pairs between cells. A
+[two-lane route](coherent_defect_wave/mobile_flux/ROUTING_COMPLETION.md)
+has a controlled one-object Dirac window for that same link object. The
+[native-routing join](coherent_defect_wave/native_routing_join/PROOF.md)
+adds an actual native response on one clock. These constructions retain
+their own occupation rules and references; the full graded Wilson field's
+positive vacuum is not assigned to them by relabelling their states.
+
+The [joined defect-wave observer](coherent_defect_wave/PROOF.md) supplies
+reciprocal wave/flux influence, an interior Gauss constraint and a faithful
+stationary preparation under a reversible repair law. Its positive-energy
+extension has [tested nonrelativistic bands](coherent_defect_wave/dispersion/PROOF.md).
+These finite controls constrain candidate interpretations rather than
+asserting that every repair frequency is a particle mass.
+
+The [coherent seam observer](coherent_seam_repair/README.md) repairs seam
+disagreement while keeping the removed information in coherent memory.
+A declared address reflection gives an executable finite wave, with its own
+stationary preparation and detector. A five-level gauge coupling preserves
+internal charge and makes loop holonomy change a measured return probability.
+The construction has no established physical particle masses or interacting
+relativistic limit. Its code and
+[proof](coherent_seam_repair/PROOF.md) distinguish the coherent law from the
+committed-record interpreter and the supplied Wilson field family.
+
+The [candidate identity tests](particle_candidate_confirmation/README.md) compare
+named particle hypotheses with conserved source charges, exact internal
+representations and complete detector records. They construct a charged
+composite dressing and resolve six finite gauge multiplets. Physical
+propagation, species and GeV masses require the same-source field attachment.
+The [candidate table](particle_candidate_confirmation/RESULTS.md) states each
+comparison domain; the [particle atlas](../docs/research/OPH_PARTICLE_ATLAS_V3.svg)
+illustrates the source-to-observation chain.
+
 The [particle comparison](particle_spectrum_audit/README.md) reproduces the
 stipulated mass branch with explicit measurement conventions and input
 ancestry. The [finite response proofs](particle_finite_response/README.md)
@@ -1045,11 +1274,18 @@ or newer:
 python3 -m venv .venv-model
 . .venv-model/bin/activate
 python3 -m pip install -r model/requirements.txt
-python3 -m model.verify
+python3 -m model.verify_current
 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python3 -m pytest -q -W error model
 ```
 
-`model.verify` checks artifact hashes and replays retained results. Individual
+`model.verify_current` preserves the original artifact checks and replay order.
+It routes the protected-readout experiment through its
+[complete interval validator](protected_readout_numerics/PROOF.md), which runs
+the unchanged producer and preserves every failure branch and raw archive.
+Two complete-measurement consumers likewise use the authenticated current
+parent receipt through a private import view of their unchanged producers.
+The original `model.verify` remains available with its backend-sensitive raw
+comparison. Individual
 current constructions can also be checked directly:
 
 ```sh

@@ -54,12 +54,12 @@ Row classes name what a row consumes. `conditional_on_...` classes list their de
 
 ## Native defect and finite field reconstruction decisions
 
-source custody and retained artifact hashes checked; retained readout summary, not a fresh scientific replay. Canonical scientific replay belongs to `python -m model.verify`. These rows retain separate object contracts; they do not assemble a particle spectrum. See the [field-reconstruction guide](research/OPH_FIELD_RECONSTRUCTION.md).
+source custody and retained artifact hashes checked; retained readout summary, not a fresh scientific replay. Canonical scientific replay belongs to `python -m model.verify_current`, including the protected readout's complete interval validator. These rows retain separate object contracts; they do not assemble a particle spectrum. See the [field-reconstruction guide](research/OPH_FIELD_RECONSTRUCTION.md).
 
 | Source object | Retained result | Receipt |
 |---|---|---|
-| `native_total_two_load_collision` | native double-load defect decays; no nonconstant configuration invariant or maintenance-energy selection | [receipt](../model/common_source/native_defect_decision_results.json) |
-| `native_active_matching_memory` | these scalar record/diagonal costs cannot split logical-state masses; a common energy or mass is not excluded and no physical offset is derived | [receipt](../model/common_source/native_defect_decision_results.json) |
+| `native_total_two_load_collision` | native double-load defect decays; no nonconstant configuration invariant or maintenance-energy selection | [receipt](../model/common_source/native_defect_decision_live_results.json) |
+| `native_active_matching_memory` | these scalar record/diagonal costs cannot split logical-state masses; a common energy or mass is not excluded and no physical offset is derived | [receipt](../model/common_source/native_defect_decision_live_results.json) |
 | `supplied_four_mode_CAR_benchmark` | Inverse-response coordinate covariance from the supplied full finite response; no detector reconstruction or physical kinetic metric. | [receipt](../model/common_source/particle_identification/results.json) |
 | `supplied_chiral_charge_block` | Source-record reconstruction of one supplied finite charge block and joint derivatives; its mass coefficient, clock and apparatus remain supplied. | [receipt](../model/common_source/chiral_candidate/record_two_point_results.json) |
 | `supplied_chiral_finite_spectral_projection` | Fixed-interpolator charge-resolved response of the supplied chiral generator; finite clusters are not a particle census. | [receipt](../model/common_source/chiral_candidate/results.json) |

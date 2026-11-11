@@ -2,7 +2,7 @@
 
 **Physics from the records observers can share.**
 
-[Main paper](https://philpapers.org/rec/MUEFOC) · [Book](https://oph-book.floatingpragma.io/) · [Notebook](https://notebook.google.com/notebook/d5249760-6ce8-44a0-927b-ccf90402711a) · [Lean library](Lean/) · [Reproduce](REPRODUCE.md) · [Pragma Research](https://floatingpragma.io/) · [Français](README_FR.md)
+[Main paper](https://philpapers.org/rec/MUEFOC) · [Book](https://oph-book.floatingpragma.ai/) · [Notebook](https://notebook.google.com/notebook/d5249760-6ce8-44a0-927b-ccf90402711a) · [Lean library](Lean/) · [Reproduce](REPRODUCE.md) · [Pragma Research](https://floatingpragma.ai/) · [Français](README_FR.md)
 
 [![Mandatory Suite](https://github.com/FloatingPragma/observer-patch-holography/actions/workflows/mandatory-suite.yml/badge.svg)](https://github.com/FloatingPragma/observer-patch-holography/actions/workflows/mandatory-suite.yml)
 [![Lean CI](https://github.com/FloatingPragma/observer-patch-holography/actions/workflows/lean-ci.yml/badge.svg)](https://github.com/FloatingPragma/observer-patch-holography/actions/workflows/lean-ci.yml)
@@ -58,9 +58,8 @@ and the clocks inside it.
 The concrete bet is a program. One simple local repair and memory law,
 running on a network of twelve-port carriers, should produce observers whose
 shared records look like our world: interacting quantum fields in 3+1
-dimensions, and gravity on large scales. Particles are meant to be knots in
-that network, localized defects that local repairs cannot undo, and their
-mass is the extra upkeep they cost.
+dimensions, and gravity on large scales. Particles are the knots in that
+network: protected defects that local repairs cannot undo.
 
 The [hypothesis](docs/OPH_EXECUTABLE_HYPOTHESIS.md) says
 what would count as success, and the
@@ -70,6 +69,21 @@ proof shows that the whole class of laws cannot work.
 
 ## Highlights
 
+- **The particle families are identified.** Every protected defect carries a
+  six-valued flux class, and it is exactly the class the Standard Model gives
+  its particles: left- and right-handed quarks, leptons with the Higgs, and
+  neutral fields. Quarks and leptons come out as fermions, and no colour
+  charge ever sits alone.
+  [Particle paper](paper/deriving_the_particle_zoo_from_observer_consistency.pdf).
+- **The charged-lepton mass ratios.** A generation register in the same repair
+  law gives muon/electron 206.770 and tau/electron 3477.47 (measured 206.768
+  and 3477.37), with no measured mass as input.
+- **An early universe like ours.** The runs create every particle class in
+  pairs, quark pairs annihilate, colour stays confined, and matter and
+  antimatter come out equal, as before baryogenesis.
+- **The gauge group with equal couplings.** Phases on the carrier's ports give
+  (SU(3)×SU(2)×U(1))/Z6 with equal strengths at the cell scale, and neutrinos
+  come out as Dirac particles.
 - **An observer that runs.** A twelve-port observer keeps its records and
   uses them to choose its next repair. Overlapping observers read a common
   reference and its clock, a finite quantum process joins electric flux,
@@ -87,17 +101,10 @@ proof shows that the whole class of laws cannot work.
   in its slow response, the Standard Model gauge Lie algebra with an
   anomaly-free matter representation, a (1+3)-dimensional causal order and the Einstein equation from null
   balance.
-- **Particle candidates and energy readouts.** A specified spin cube connects
-  a prepared ground, opposite internal charges and complete energy measurements.
-  A separate full-fermion cube has certified wavepacket energy bands and a
-  nonzero composite response residual. The
-  [defect catalogue](model/protected_defect_catalog/CATALOG.md) distinguishes
-  these source sectors from memory charges and prescribed textures. Physical
-  particle identities require controlled dispersion, spacetime transformations
-  and scattering on one theory; the
-  [source correspondence](model/standard_model_source_map/PARTICLE_MAP.md)
-  retains unassigned physical masses.
-  [Particle paper](paper/deriving_the_particle_zoo_from_observer_consistency.pdf).
+- **Energy readouts.** Complete interacting quantum sources give
+  gauge-constrained energy records, including preparation failures, and a
+  finite electric/magnetic field has a certified charged ground.
+  [Charged-field attachment](model/native_abelian_field_join/PROOF.md).
 - **Continuum fields and their measurements.** The ordered-spin construction has
   three continuous spatial dimensions, time, positive energy and finite propagation.
   Its position observable is conjugate to the same spatial momentum, with complete
@@ -106,10 +113,48 @@ proof shows that the whole class of laws cannot work.
   central field requirement. A separate scaling gives free massless Weyl fields
   and the matter stress response used by the conditional gravity derivation.
   [Field constructions](docs/research/OPH_FIELD_RECONSTRUCTION.md#the-three-field-constructions-and-their-source-boundaries),
-  [spectral readout](model/spin_shell_readout/README.md).
+  [spectral readout](model/spin_shell_readout/README.md),
+  [ten common-theory requirements](model/particle_joint_reconstruction/DEPENDENCIES.md).
+- **Interacting fields and actual position records.** A declared
+  [gauge-field construction](model/particle_observer_outputs/PROOF.md)
+  has controlled local detector records and a causal bound uniform in
+  physical refinement, including quantum links and all fermion occupations. A
+  [joint field/reference instrument](model/particle_joint_translation_readout/PROOF.md)
+  supplies conserved crystal momentum, position backaction and finite
+  uncertainty. Physical chiral refinement and particle mass identification
+  require their own same-state derivations. The
+  [illustrated atlas](docs/research/OPH_PARTICLE_ATLAS_V2.html) explains
+  these finite measurements and the remaining physical connections.
+- **Thermal records, work and pressure.** One interacting quantum-flux
+  control has a [certified thermal preparation](model/particle_field_state_response/PROOF.md)
+  and complete two-time records, with every occupation and reference retained.
+  Its [spatial strain response](model/particle_geometric_response/PROOF.md)
+  calculates work and pressure from a declared geometry coupling on the
+  same state and clock. The proper geometric interpretation and regional
+  entropy and area premises required for Einstein dynamics are separate
+  physical requirements.
+- **One source, state, reference and clock.** The selected Wilson construction
+  has a [common observable algebra](model/particle_primary_field_algebra/PROOF.md),
+  a stationary limiting state, positive energy and convergent finite detector
+  histories on one subsequence. Its energy currents obey exact finite
+  conservation. A [controlled energy pulse](model/particle_primary_energy_response/PROOF.md)
+  produces a nonzero original current response and positive cyclic work;
+  its Ward identity includes the work supplied by the pulse.
+  [Selected energy moments](model/particle_primary_weighted_spectral_tail/PROOF.md)
+  obey a bound of 4000000/a, independent of link degree, where a is the source spacing.
+  The positive finite-window probability deteriorates with capacity. An
+  [equal-work control](model/particle_primary_equal_work_control/PROOF.md)
+  on the same source has an elastic limit, so mean work alone cannot prove
+  particle survival.
+  The [native chirality audit](model/particle_primary_odd_sum_rules/PROOF.md)
+  identifies a paired response that a physical chiral assignment must resolve.
+  Lorentz covariance, surviving interacting particles and proper geometric
+  stress remain requirements on this same source and state. The
+  [ten-step dependency map](model/particle_joint_reconstruction/DEPENDENCIES.md)
+  records the precise remaining physical requirements.
 - **Mathematics you can check.** The [Lean library](Lean/) contains more than
-  12800 public theorems and lemmas with no admitted proofs, and every retained
-  computational receipt is replayed under continuous integration.
+  12900 public theorems and lemmas with no admitted proofs. Computational
+  receipts bind their source inputs and include replay checks.
 - **Tests fixed in advance.** Predictions and their rejection rules enter the
   [frozen-prediction ladder](docs/FROZEN_PREDICTION_LADDER.md) before the
   eligible comparison data, with OpenTimestamps proofs, most of them anchored in
@@ -156,7 +201,8 @@ scores and a result hash. The [model guide](model/README.md) covers the rest.
 - **Gauge symmetry.** Under stated premises on complete reversible response
   and observer transport, the twelve-port response algebra has the Standard
   Model gauge Lie type, and a specified matter representation gives an
-  anomaly-free generation.
+  anomaly-free generation. Port phases realize the global group, whose centre
+  is the flux alphabet of the particle defects.
   [Gauge derivation](paper/deriving_standard_model_gauge_structure_from_observer_overlap_consistency.pdf).
 - **Thermodynamics.** Finite repair theorems give a Clausius inequality,
   fluctuation relations and an information Landauer inequality under a stated
@@ -243,7 +289,7 @@ the [observer workflow](.github/workflows/observer-model.yml).
 
 The [Lean library](Lean/) builds with Lake, the [documentation index](docs/README.md)
 lists the registers and policies, and the [book](book/) gives a longer road
-in. The textbooks at [learn.floatingpragma.io](https://learn.floatingpragma.io/)
+in. The textbooks at [learn.floatingpragma.ai](https://learn.floatingpragma.ai/)
 and the interactive simulation at
 [simulation.floatingpragma.io](https://simulation.floatingpragma.io/) are
 the gentlest introductions.
@@ -274,7 +320,7 @@ The [license map](LICENSE) gives the directory-specific terms.
 
 [Cadence](https://github.com/muellerberndt/cadence) is the related learning-machine
 project. Its capability evidence is separate from OPH's physics evidence.
-[Pragma Research](https://floatingpragma.io/) brings the projects together.
+[Pragma Research](https://floatingpragma.ai/) brings the projects together.
 
 OPH's official TEO (Theory Of Everything) memecoin was deployed by the Base
 community and lives on Base at

@@ -1,0 +1,127 @@
+{
+  "schema": "oph.field_record_addenda_claims.v1",
+  "sealed_parent_commit": "6d39bfd75dda28a7affb199f7cb5f70d39feedf5",
+  "sealed_program_class_sha256": "c5bddd55ea5b8f70bed3d0095b77cccbf6cad78e40dfbea707969953e935fcec",
+  "changes_existing_physical_statuses": false,
+  "physical_particle_identifications": [],
+  "source_derived_masses_GeV": [],
+  "claims": [
+    {
+      "id": "FR01",
+      "package": "native_quark_transport",
+      "construction_relation": "SAME_H_NEW_APPARATUS",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Positive charge-compensated first-hop records from the actual native quark probes; all original outcomes retained.",
+      "receipt": "model/field_record_addenda/native_quark_transport/results.json",
+      "receipt_sha256": "63475f4134d7418bbc5076763fb493c932cae95a61107638903bfc15bf3075a3",
+      "proof": "model/field_record_addenda/native_quark_transport/PROOF.md"
+    },
+    {
+      "id": "FR02",
+      "package": "native_quark_spatial_spectrum",
+      "construction_relation": "SAME_H_NEW_APPARATUS",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Ordered arrival and active-source-plus-reference spectral records, with all local lines, dark residues and an exact energy-ordering control.",
+      "receipt": "model/field_record_addenda/native_quark_spatial_spectrum/results.json",
+      "receipt_sha256": "27060cc72b20387eb75a0536a0e25fef163f3f89efb6b72dedc742b0d20bc438",
+      "proof": "model/field_record_addenda/native_quark_spatial_spectrum/PROOF.md"
+    },
+    {
+      "id": "FR03",
+      "package": "native_code_ground_preparation",
+      "construction_relation": "SAME_H_NEW_APPARATUS",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Recorded code admission and finite energy-agreement filters prepare the fixed completed cube with controlled complete photon histories.",
+      "receipt": "model/field_record_addenda/native_code_ground_preparation/results.json",
+      "receipt_sha256": "e301872e318fb001276a99ebf02c6a2afa9412f0567df89d50e895ec5ef64162",
+      "proof": "model/field_record_addenda/native_code_ground_preparation/PROOF.md"
+    },
+    {
+      "id": "FR04",
+      "package": "native_wilson_cone_audit",
+      "construction_relation": "DECLARED_NEW_H",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Exact original free squared-dispersion mismatch and a distinct orthogonal regulator with a common free low-momentum coefficient.",
+      "receipt": "model/field_record_addenda/native_wilson_cone_audit/results.json",
+      "receipt_sha256": "fef872d3bd258b6dc19ca9db4a0ff46edecabbbbb013ba508e869a6ccce11be8",
+      "proof": "model/field_record_addenda/native_wilson_cone_audit/PROOF.md"
+    },
+    {
+      "id": "FR05",
+      "package": "native_orthogonal_wilson_bridge",
+      "construction_relation": "DECLARED_NEW_H",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Fresh finite-cube vacuum, unchanged charge/Gauss frame, retained raw energy offset, positive full physical gap and complete prepared interaction records.",
+      "receipt": "model/field_record_addenda/native_orthogonal_wilson_bridge/results.json",
+      "receipt_sha256": "06ef91ab82793cdb6f91c0706ce52e4cb15bf35b0575fab9983ebfbc72805402",
+      "proof": "model/field_record_addenda/native_orthogonal_wilson_bridge/PROOF.md"
+    },
+    {
+      "id": "FR06",
+      "package": "native_wilson_maxwell_locality",
+      "construction_relation": "SAME_H_NEW_APPARATUS",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Uniform physical-code commutator bounds and complete finite-cap local-field records on the fixed cube.",
+      "receipt": "model/field_record_addenda/native_wilson_maxwell_locality/results.json",
+      "receipt_sha256": "e409f72e27b6dfae971e4cce0a7231ae99bdc8d6ba5e07e514003539313c06b2",
+      "proof": "model/field_record_addenda/native_wilson_maxwell_locality/PROOF.md"
+    },
+    {
+      "id": "FR07",
+      "package": "native_wilson_maxwell_spatial_family",
+      "construction_relation": "DECLARED_FAMILY",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Positive-time complete local record convergence on growing open boxes at fixed spatial spacing, with explicit preparation and photon-cap budgets.",
+      "receipt": "model/field_record_addenda/native_wilson_maxwell_spatial_family/results.json",
+      "receipt_sha256": "eff9d81ff7cced1838bc04c3d9c884aa5e60198f5454cacf337237a688f2d0d9",
+      "proof": "model/field_record_addenda/native_wilson_maxwell_spatial_family/PROOF.md"
+    },
+    {
+      "id": "FR08",
+      "package": "native_wilson_maxwell_interaction_witness",
+      "construction_relation": "SAME_FAMILY_NEW_APPARATUS",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Strict complete finite-law separation from the matched zero-coupling comparison by an electric kick and current readout.",
+      "receipt": "model/field_record_addenda/native_wilson_maxwell_interaction_witness/results.json",
+      "receipt_sha256": "93a43d594c1ffc7f04b8ec7573a26e1bb9e6ac0e9c81a3bdc24b0b2176ec2a97",
+      "proof": "model/field_record_addenda/native_wilson_maxwell_interaction_witness/PROOF.md"
+    },
+    {
+      "id": "FR09",
+      "package": "native_orthogonal_wilson_spatial_join",
+      "construction_relation": "DECLARED_FAMILY",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Fresh fixed-charge-frame orthogonal sea preparation and complete fixed-spacing interacting spatial records; a distinct volume-dependent completion c(V)=18V+1 places the global ground inside the code for all finite boxes and caps.",
+      "receipt": "model/field_record_addenda/native_orthogonal_wilson_spatial_join/results.json",
+      "receipt_sha256": "45afc48eddfbe284618d3248d6bb4c97e1fc7304c1301df3b78fa6a908e01a62",
+      "proof": "model/field_record_addenda/native_orthogonal_wilson_spatial_join/PROOF.md"
+    },
+    {
+      "id": "FR10",
+      "package": "native_orthogonal_wilson_charged_band",
+      "construction_relation": "DECLARED_NEW_H",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Paired rank-eight charged clusters on the finite orthogonal cube, with full Gauss compensation, an even fermionic pump and complete charged/neutral energy records; fixed-sector bounds include every preparation and clock failure.",
+      "receipt": "model/field_record_addenda/native_orthogonal_wilson_charged_band/results.json",
+      "receipt_sha256": "39ca5cedc3f4df074b2b54c21a0fb683b91ca3e08e93881dd55f3de8a3ac7151",
+      "proof": "model/field_record_addenda/native_orthogonal_wilson_charged_band/PROOF.md"
+    },
+    {
+      "id": "FR11",
+      "package": "native_orthogonal_wilson_charged_spatial_records",
+      "construction_relation": "SAME_FAMILY_NEW_APPARATUS",
+      "status": "proved_in_stated_finite_construction",
+      "statement": "Complete local charged-preparation records converge at fixed spacing with a receding static reference; quantum Wick contraction gives a positive reference-subtracted prepared-energy limit, distinct from an interacting-ground threshold.",
+      "receipt": "model/field_record_addenda/native_orthogonal_wilson_charged_spatial_records/results.json",
+      "receipt_sha256": "8e144b798139546c927513855cdd6539e72b16fb94754b9411c11d3ccf1d6e54",
+      "proof": "model/field_record_addenda/native_orthogonal_wilson_charged_spatial_records/PROOF.md"
+    }
+  ],
+  "scope": [
+    "Every row uses its explicitly declared source, preparation, references and clock.",
+    "Finite control services and architecture choices are premises; no uniqueness claim is required.",
+    "Fixed-graph photon refinement, fixed-spacing spatial limits, and a relativistic ultraviolet limit are distinct.",
+    "The original beta-Wilson and revised orthogonal spatial families are distinct declared sources; the volume-dependent completion is a further explicit source choice.",
+    "The claims do not establish an interacting chiral Standard Model limit, scattering identities or measured masses."
+  ]
+}
